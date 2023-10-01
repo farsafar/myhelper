@@ -1,7 +1,4 @@
 # myhelper
-
-Claro que sí, aquí tienes un readme de GitHub sobre el programa que me has proporcionado:
-
 My Helper
 Este programa en Python te ayuda a crear una lista de números, agregar números a la lista y verificar si un número está en la lista.
 
