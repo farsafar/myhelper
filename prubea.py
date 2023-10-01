@@ -1,3 +1,4 @@
+print("soy my helper")
 print("dime numeros para hacer una lista")
 lista = list(((input())))
 print(lista)
@@ -21,6 +22,8 @@ def obtener_datos():
     respuesta = input()
     if respuesta in lista:
         print("si tu elemento esta en la lista") 
+    else:
+        print("no, no esta el elemento")
 
 
 if si_no == "si":
