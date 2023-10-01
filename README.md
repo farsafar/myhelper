@@ -36,11 +36,6 @@ Ingresa el número que deseas verificar: 10
 
 si tu elemento esta en la lista
 
-
-## Créditos
-
-Este programa fue escrito por Bard, un gran modelo de lenguaje de Google AI.
-
 ## Licencia
 
 Este programa está bajo la licencia MIT.
