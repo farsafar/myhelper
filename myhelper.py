@@ -16,15 +16,25 @@ else:
     print("Bueno tengo otra que te va ayudar")
 
 print("Ahora quieres revisar si hay un numero")
-si_no = input()
+siono = input()
 
 def obtener_datos():
-    respuesta = input()
+    respuesta = input("Escriber un numero: ")
     if respuesta in lista:
         print("si tu elemento esta en la lista") 
     else:
         print("no, no esta el elemento")
 
+print("Ahora quieres eliminar un numero ")
+sieno = input()
 
-if si_no == "si":
+def eliminar_datos():
+    respuesta = input("Escribe un numero: ")
+    lista.remove(respuesta)
+    print(lista)
+    
+if siono == "si":
     obtener_datos()
+
+if sieno == "si":
+    eliminar_datos()
